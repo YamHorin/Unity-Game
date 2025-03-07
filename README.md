@@ -10,4 +10,4 @@ Can you help him?
   
 ## video of the project 
 
-[![Watch the video]()](https://youtu.be/P-ZMX4tZ-c0)
+[![Watch the video](https://i.imgur.com/WrQnzHc.png)](https://youtu.be/P-ZMX4tZ-c0)
